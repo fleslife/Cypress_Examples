@@ -11,6 +11,7 @@
 // please read our getting started guide:
 // https://on.cypress.io/introduction-to-cypress
 //TEST
+//TEST_PULL
 
 describe('example to-do app', () => {
   beforeEach(() => {
